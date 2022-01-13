@@ -1,0 +1,4 @@
+enum CustomerType {
+  A,
+  B
+}

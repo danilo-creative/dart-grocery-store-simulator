@@ -1,0 +1,10 @@
+# Files and directories created by pub.
+.dart_tool/
+.packages
+.vscode/
+analysis_options.yaml
+CHANGELOG.md
+pubspec.lock
+
+# Conventional directory for build output.
+build/
